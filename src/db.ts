@@ -2,7 +2,7 @@ import { Pool } from "pg";
 
 //pegamos o Pool do banco de dados PostGres
 
-const connectionString = 'postgres://qsoolaax:g3HOIho9UEBA3IMVvmAkuvjD4wi46mlA@kesavan.db.elephantsql.com/qsoolaax';
+const connectionString = 'url do banco de dados postgre';
 
 //quero um novo Pool com base nas configurações "connectionString"
 
